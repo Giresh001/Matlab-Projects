@@ -1,5 +1,5 @@
-# Matlab-Projects
-This Repository contains the Matlab Projects of Batch 2022 
+# MATLAB-Projects
+This repository contains the MATLAB Projects of Batch 2022 
 
 Here are steps to create a pull request.
 
